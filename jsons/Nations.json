@@ -12,7 +12,7 @@
 		"name": "Племя УгаБуга",
 		"leaderName": "Буга Буга I",
 		"adjective": ["УгаБугавец"],
-		"startBias": ["avoid "tundra""],
+		"startBias": ["Avoid [Tundra]"],
 		"preferredVictoryType": "",
 
         "startIntroPart1": "",
