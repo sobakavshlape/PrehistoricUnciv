@@ -1,0 +1,37 @@
+[
+	//Spectator
+    //Not "Excluded from map editor" as it serves as placeholder for "Any Civ" starting locations
+	{
+		"name": "Spectator",
+		"outerColor": [255,255,255]
+//		"innerColor": [255,255,255]
+	},
+
+	{
+		//nations
+		"name": "Племя УгаБуга",
+		"leaderName": "Буга Буга I",
+		"adjective": ["УгаБугавец"],
+		"startBias": ["avoid "tundra""],
+		"preferredVictoryType": "",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "Уга уга аааа буга ббб эаэаэа!",
+		"attacked": "Уга уга...",
+		"defeated": "Буга уга.",
+		"introduction": "Буга вуга а а а!",
+
+		"neutralHello": "Буга уга.",
+		"hateHello": "Уга буга! Уга буга аааа!",
+
+		"tradeRequest": "Уга уга бубубу.",
+
+		"outerColor": [43,81,98],
+		"innerColor": [201,248,255],
+		"uniqueName": "Уга Буга",
+		"uniques": [""],
+		"cities": ["Бугагаба","ААААА","Бубутака","АА УГА ККК","Бука гука"]
+	},
+]
