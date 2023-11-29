@@ -9,7 +9,7 @@
 
 	{
 		//nations
-		"name": "UgaBuga",
+		"name": "Племя УгаБуга",
 		"leaderName": "Буга Буга I",
 		"adjective": ["УгаБуги"],
 		"startBias": ["Avoid [Tundra]"],
