@@ -1,0 +1,18 @@
+[
+        {
+                "columnNumber": 0,
+                "era": "RN",
+                "techCost": 25, 
+                "buildingCost": 60,
+                "wonderCost": 150,
+                "techs": [
+                        {
+                                "name": "AgricuB",
+                                "row": 6,
+                                "uniques": ["Starting tech"],
+                                "quote": "'No man ever wetted clay and left it, as if there would be bricks DD chance and fortune.' - Plutarch"
+                        }
+
+                ]        
+        }
+]
