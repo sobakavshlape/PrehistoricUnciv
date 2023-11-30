@@ -3,7 +3,7 @@
     // I also did some testing in the official version, but by far not all
     
     {
-        "name": "Ранний Палеолит",
+        "name": "RP",
         "researchAgreementCost": 150,
         "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
         "startingWorkerCount": 0,
@@ -29,7 +29,7 @@
         "iconRGB": [255, 87, 35]
     },
     {
-        "name": "Средний Палеолит",
+        "name": "SP",
         "researchAgreementCost": 150,
         "startingSettlerCount": 1,
         "startingWorkerCount": 0,
@@ -57,7 +57,7 @@
         "iconRGB": [233, 31, 99]
     },
     {
-        "name": "Верхний Палеолит",
+        "name": "VP",
         "researchAgreementCost": 250,
         "startingSettlerCount": 2,
         "startingWorkerCount": 1,
@@ -87,7 +87,7 @@
         "iconRGB": [157, 39, 176]
     },
     {
-        "name": "Мезолит",
+        "name": "MZ",
         "researchAgreementCost": 250,
         "startingSettlerCount": 2,
         "startingWorkerCount": 1,
@@ -117,7 +117,7 @@
         "iconRGB": [104, 58, 183]
     },
     {
-        "name": "Ранний Неолит",
+        "name": "RN",
         "researchAgreementCost": 300,
         "startingSettlerCount": 3,
         "startingWorkerCount": 2,
@@ -151,7 +151,7 @@
         ]
     },
     {
-        "name": "Средний Неолит",
+        "name": "SN",
         "researchAgreementCost": 350,
         "startingSettlerCount": 3,
         "startingWorkerCount": 2,
@@ -185,7 +185,7 @@
         ]
     },
     {
-        "name": "Верхний Неолит",
+        "name": "VN",
         "researchAgreementCost": 400,
         "startingSettlerCount": 3,
         "startingWorkerCount": 2,
@@ -219,7 +219,7 @@
        ]
     },
     {
-        "name": "Бронзовый век",
+        "name": "BV",
         "researchAgreementCost": 400,
         "startingSettlerCount": 3,
         "startingWorkerCount": 3,
@@ -258,7 +258,7 @@
     { // Technically, this Era doesn't exist in the original game. 
       // But as it is _really_ usefull to have for testing, I'd like to keep it. 
       // The stats are just copy-pasted from the information era.
-        "name": "Железный век",
+        "name": "JV",
         "researchAgreementCost": 400,
         "startingSettlerCount": 3,
         "startingWorkerCount": 3,
